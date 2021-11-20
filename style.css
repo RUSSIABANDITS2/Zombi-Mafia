@@ -1,0 +1,74 @@
+.Zombi{
+	position: absolute;
+width: 697px;
+height: 130px;
+left: 59px;
+top: 333px;
+
+font-family: cursive;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 65px;
+
+color: #FFFFFF;
+}
+.doanwload{
+	position: absolute;
+width: 301px;
+height: 64px;
+left: 108px;
+top: 610px;
+
+border: 1px solid #FAFAFA;
+box-sizing: border-box;
+border-radius: 4px;
+}
+.Zag{
+	position: absolute;
+width: 157px;
+height: 29px;
+left: 174px;
+top: 81px;
+
+font-family: cursive;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #FAFAFA;
+
+}
+.Slide1{
+	position: absolute;
+width: 1230px;
+height: 1468px;
+left: 328px;
+top: 874px;
+
+/* Grad */
+
+background:  linear-gradient(90deg, #46F4FF 0%, #397A96 100%);
+border-radius: 24px;
+}
+.Pod{
+position: absolute;
+width: 1530px;
+height: 259px;
+left: 170px;
+top: 2544px;
+
+/* Grad 2 */
+
+background: linear-gradient(90deg, #9746FF 0%, #7A1582 100%);
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 24px;
+}
+.Raz{
+color: white;
+font-family: cursive;
+position: absolute;
+left: 1000px;
+}
